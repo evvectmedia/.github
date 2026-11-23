@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none">
+<title>Evvect Broadcast</title>
+<rect x="0.5" y="0.5" width="47" height="47" rx="10.5" fill="#1A1E25" stroke="#2C323C"/>
+<g stroke-linecap="butt" stroke-linejoin="miter">
+<path d="M26.09 14.05H21.91V18.23H26.09V14.05Z" fill="#2BC8FF"/>
+<path d="M24 20.31V37.01M18.78 38.31H29.22" stroke="#2BC8FF" stroke-width="2.87"/>
+<path d="M18.26 11.97L15.65 16.14L18.26 20.31M29.74 11.97L32.35 16.14L29.74 20.31M13.57 8.83L9.91 16.14L13.57 23.44M34.43 8.83L38.09 16.14L34.43 23.44" stroke="#2BC8FF" stroke-width="2.61"/>
+</g>
+</svg>

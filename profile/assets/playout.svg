@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none">
+<title>Evvect Playout</title>
+<rect x="0.5" y="0.5" width="47" height="47" rx="10.5" fill="#1A1E25" stroke="#2C323C"/>
+<g stroke-linecap="butt" stroke-linejoin="miter">
+<path d="M13.04 22.37V29.67M18.26 19.24V32.8M29.74 20.28V31.76M34.96 22.89V29.15" stroke="#4C8DFF" stroke-width="3.39"/>
+<path d="M24 15.59V36.46" stroke="#4C8DFF" stroke-width="2.35"/>
+<path d="M20.13 11.38C19.67 10.82 19.89 10.37 20.61 10.37H27.39C28.11 10.37 28.33 10.82 27.87 11.38L24.82 15.1C24.37 15.65 23.63 15.65 23.18 15.1L20.13 11.38Z" fill="#4C8DFF"/>
+</g>
+</svg>
