@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none">
+<title>Evvect Visual</title>
+<rect x="0.5" y="0.5" width="47" height="47" rx="10.5" fill="#1A1E25" stroke="#2C323C"/>
+<g stroke-linecap="butt" stroke-linejoin="miter">
+<path d="M13.57 17.74H31.3C33.03 17.74 34.43 19.14 34.43 20.87V32.35C34.43 34.08 33.03 35.48 31.3 35.48H13.57C11.84 35.48 10.43 34.08 10.43 32.35V20.87C10.43 19.14 11.84 17.74 13.57 17.74Z" stroke="#FF8A3D" stroke-width="3.39"/>
+<path d="M24.52 28.17H15.13C14.55 28.17 14.09 28.64 14.09 29.22V30.78C14.09 31.36 14.55 31.83 15.13 31.83H24.52C25.1 31.83 25.57 31.36 25.57 30.78V29.22C25.57 28.64 25.1 28.17 24.52 28.17Z" fill="#FF8A3D"/>
+<circle cx="33.91" cy="16.17" r="4.43" fill="#FF8A3D" stroke="#1A1E25" stroke-width="1.83"/>
+</g>
+</svg>
